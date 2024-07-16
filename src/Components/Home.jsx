@@ -109,8 +109,9 @@ const Home = () => {
         >
           @SahilChhabra
         </Link>
-        {/* <link to=>
-        </link> */}
+        {/* <Link to="https://github.com/sahil1863/Graph-buddy">
+        <img  src="https://cdn-icons-png.flaticon.com/512/25/25231.png" ></img>
+        </Link> */}
       </div>
       </div>
     </div>
