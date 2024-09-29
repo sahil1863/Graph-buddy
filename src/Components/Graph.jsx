@@ -13,18 +13,7 @@ const Graph = ({ isDirected, isWeighted, nodeSize, weightFactor }) => {
 
       y = Math.max(80, y);
       y = Math.min(y, window.innerHeight - 25);
-      // if (x < 40) {
-      //   x = 40;
-      // } else if (x >= window.innerWidth - 25) {
-      //   x = window.innerWidth - 25;
-      // }
-
-      // if (y < 80) {
-      //   y = 80;
-      // } else if (y >= window.innerHeight - 25) {
-      //   y = window.innerHeight - 25;
-      // }
-
+    
       node.x = x;
       node.y = y;
 

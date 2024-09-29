@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef } from "react";
-
 import RightMenu from "./UI/RightMenu";
 import Navbar from "./UI/Navbar";
 import Graph from "./Graph";
